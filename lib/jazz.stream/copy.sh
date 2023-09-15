@@ -1,6 +1,9 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-stream-silicon
+
 GSTREAMER=/Library/Frameworks/GStreamer.framework/Versions/1.0
+
 
 if [ -d gstreamer ]; then
   rm -r gstreamer

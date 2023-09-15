@@ -1,6 +1,9 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-png-silicon
+
 GSTREAMER=/Library/Frameworks/GStreamer.framework/Versions/1.0
+
 
 if [ -d include ]; then
   rm -r include
@@ -9,6 +12,7 @@ fi
 if [ -d lib ]; then
   rm -r lib
 fi
+
 
 cp -r $GSTREAMER/include/libpng16 include
 
