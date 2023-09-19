@@ -1,0 +1,19 @@
+;;;
+;;;; SILICON
+;;;
+
+
+  ;; make sure to have
+  ;; export MACOSX_DEPLOYMENT_TARGET=11
+
+
+  ;;;
+  ;;;; DYLIB
+  ;;;
+
+
+  ;; BUILD
+  ;; - download glew source from https://glew.sourceforge.net
+  ;;   and install it in ~/Devel/system/glew
+  ;; - cd ~/Devel/system/glew
+  ;; - make
