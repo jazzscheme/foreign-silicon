@@ -5,6 +5,7 @@ cd ../../foreign/jazz-stream-silicon
 GSTREAMERDISTR=/Users/cartier/Devel/gstreamer/gstreamer/distr
 
 
+cp $GSTREAMERDISTR/include/gstreamer-1.0/gst/gsttask.h gstreamer/include/gstreamer-1.0/gst
 cp $GSTREAMERDISTR/include/gstreamer-1.0/gst/app/gstappsrc.h gstreamer/include/gstreamer-1.0/gst/app
 
 
