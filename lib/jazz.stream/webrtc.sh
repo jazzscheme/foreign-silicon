@@ -2,8 +2,8 @@
 
 cd ../../foreign/jazz-stream-silicon
 
-WEBRTC=/Users/cartier/Devel/gstreamer/webrtc/build
-WEBRTCAUDIOPROCESSING=/Users/cartier/Devel/gstreamer/webrtcaudioprocessing/build/plugin
+WEBRTC=/Users/live/Devel/gstreamer/webrtc/build
+WEBRTCAUDIOPROCESSING=/Users/live/Devel/gstreamer/webrtcaudioprocessing/build/plugin
 
 
 cp $WEBRTC/libwebrtc.dylib gstreamer/lib

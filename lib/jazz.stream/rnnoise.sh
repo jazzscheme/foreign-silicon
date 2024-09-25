@@ -2,7 +2,7 @@
 
 cd ../../foreign/jazz-stream-silicon
 
-RNNOISE=/Users/cartier/Devel/gstreamer/rnnoise
+RNNOISE=/Users/live/Devel/gstreamer/rnnoise
 
 
 cp $RNNOISE/rnnoise/silicon/lib/librnnoise.0.dylib gstreamer/lib
