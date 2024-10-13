@@ -84,7 +84,6 @@ cplib libavfilter.9.dylib
 cplib libavformat.60.dylib
 cplib libavutil.58.dylib
 cplib libbz2.1.dylib
-cplib libcrypto.1.1.dylib
 cplib libffi.7.dylib
 cplib libgio-2.0.0.dylib
 cplib libglib-2.0.0.dylib
@@ -116,7 +115,6 @@ cplib libopus.0.dylib
 cplib liborc-0.4.0.dylib
 cplib libpcre2-8.0.dylib
 cplib libpng16.16.dylib
-cplib libssl.1.1.dylib
 cplib libswresample.4.dylib
 cplib libvorbis.0.dylib
 cplib libvorbisenc.2.dylib
